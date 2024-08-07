@@ -1,4 +1,4 @@
-# Proyecto final del Bootcamp de Data Science & Machine Learning
+# Proyecto Final del Bootcamp de Data Science & Machine Learning
 
 <img src="https://github.com/user-attachments/assets/2d7a6e6a-2507-4740-a8e0-a2cd1aee9273" alt="Título: Retención Estratégica de Talentos con IA " width="800">
 
