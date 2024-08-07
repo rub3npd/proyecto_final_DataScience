@@ -1,8 +1,12 @@
 # Proyecto final del Bootcamp de Data Science & Machine Learning
 
+
 ## Autores:
 - Cristina Gónzalez
 - Rubén Pecellín
+
+
+
 
 # Retención Estratégica de Talentos con IA
 
@@ -15,6 +19,9 @@ Identificar los factores que contribuyen al abandono de los empleados y predecir
 
 ## Objetivo:
 Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pérdida de talentos apoyándose en datos y que a través de ellos, puedan desarrollar planes de acción.
+
+
+
 
 
 
