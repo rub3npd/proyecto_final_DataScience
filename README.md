@@ -39,7 +39,7 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 
 
 
-## Autores:
+# Autores:
 - Cristina Gónzalez
 - Rubén Pecellín
 
