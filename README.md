@@ -1,4 +1,4 @@
-# Bienvenido al proyecto final del Bootcamp de Data Science & Machine Learning
+# Proyecto final del Bootcamp de Data Science & Machine Learning
 
 ## Retención Estratégica de Talentos con IA
 
@@ -14,7 +14,7 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 
 
 
-### Estructura de Carpetas:
+## Estructura de Carpetas:
 
 📚 data: Bases de datos con la que trabajaremos en el proyecto, formato .csv
 
@@ -26,7 +26,7 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 
 
 
-### Autores:
+## Autores:
 - Cristina Gónzalez
 - Rubén Pecellín
   
