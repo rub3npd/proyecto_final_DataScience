@@ -6,7 +6,8 @@
 - Rubén Pecellín
 
 
-![image](https://github.com/user-attachments/assets/2d7a6e6a-2507-4740-a8e0-a2cd1aee9273)
+![image](https://github.com/user-attachments/assets/94ae4b27-c68a-4907-9ff5-1a161110b27c)
+
 
 # Retención Estratégica de Talentos con IA
 
