@@ -1,6 +1,6 @@
 Bienvenido al proyecto final del Bootcamp de Data Science & Machine Learning
 
-Retención Estratégica de Talentos con IA
+--- Retención Estratégica de Talentos con IA ---
 
 Contexto:
 Nos propusimos crear un modelo de IA que sirva para ayudar a las áreas de HR.
