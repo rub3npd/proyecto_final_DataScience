@@ -33,6 +33,6 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 
 🛠️🐍 notebooks: Está dividido en 4 Jupyter Notebooks en donde cada uno de ellos se explicarán las distintas fases del proyecto, siendo así el "04_Ingerineria_De_Caracteristicas.ipynb" el archivo final. Desarrollado en Python
 
-💹 presentación: en formato .pdf y .pptx
+💹 presentación: en formato .pdf
 
   
