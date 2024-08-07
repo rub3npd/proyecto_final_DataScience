@@ -27,7 +27,7 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 
 # Estructura de Carpetas:
 
-📚 **data**: Bases de datos con la que trabajaremos en el proyecto, formato .csv
+📚 **data**: Bases de datos con la que trabajaremos en el proyecto, en formato .csv
 
 🗺️ **demo**: Dashboard Interactivo de Tableau, en formato .twbx y .pdf
 
