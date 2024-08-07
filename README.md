@@ -23,6 +23,6 @@ Estructura de Carpetas:
 
 🗺️ demo: Dashboard de Tableau, en formato .twbx y .pdf
 
-🛠️🐍 notebooks: Jupyter Notebooks del proyecto. Está dividido en 4 notebooks en donde cada uno de ellos se explicarán las distintas fases del proyecto, siendo así el "04_Ingerineria_De_Caracteristicas.ipynb" el archivo final. con código en PYthon
+🛠️🐍 notebooks: Está dividido en 4 Jupyter Notebooks en donde cada uno de ellos se explicarán las distintas fases del proyecto, siendo así el "04_Ingerineria_De_Caracteristicas.ipynb" el archivo final. con código en PYthon
 
 💹 presentación: en formato .pdf y .pptx
