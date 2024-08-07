@@ -1,5 +1,9 @@
 # Proyecto final del Bootcamp de Data Science & Machine Learning
 
+## Autores:
+- Cristina Gónzalez
+- Rubén Pecellín
+
 ## Retención Estratégica de Talentos con IA
 
 ### - Contexto:
@@ -24,9 +28,4 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 
 💹 presentación: en formato .pdf y .pptx
 
-
-
-## Autores:
-- Cristina Gónzalez
-- Rubén Pecellín
   
