@@ -1,9 +1,5 @@
 Bienvenido al proyecto final del Bootcamp de Data Science & Machine Learning
 
-Autores:
-- Cristina Gónzalez
-- Rubén Pecellín
-  
 Retención Estratégica de Talentos con IA
 
 Contexto:
@@ -17,6 +13,7 @@ Objetivo:
 Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pérdida de talentos apoyándose en datos y que a través de ellos, puedan desarrollar planes de acción.
 
 
+
 Estructura de Carpetas:
 
 📚 data: Bases de datos con la que trabajaremos en el proyecto, formato .csv
@@ -26,3 +23,10 @@ Estructura de Carpetas:
 🛠️🐍 notebooks: Está dividido en 4 Jupyter Notebooks en donde cada uno de ellos se explicarán las distintas fases del proyecto, siendo así el "04_Ingerineria_De_Caracteristicas.ipynb" el archivo final. con código en PYthon
 
 💹 presentación: en formato .pdf y .pptx
+
+
+
+Autores:
+- Cristina Gónzalez
+- Rubén Pecellín
+  
