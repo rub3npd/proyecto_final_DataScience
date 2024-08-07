@@ -6,12 +6,9 @@
 - Rubén Pecellín
 
 
-
-
-# Retención Estratégica de Talentos con IA
-
 ![image](https://github.com/user-attachments/assets/2d7a6e6a-2507-4740-a8e0-a2cd1aee9273)
 
+# Retención Estratégica de Talentos con IA
 
 ## Contexto:
 Nos propusimos crear un modelo de IA que sirva para ayudar a las áreas de HR.
