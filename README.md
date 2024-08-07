@@ -1,20 +1,20 @@
-Bienvenido al proyecto final del Bootcamp de Data Science & Machine Learning
+# Bienvenido al proyecto final del Bootcamp de Data Science & Machine Learning
 
---- Retención Estratégica de Talentos con IA ---
+## Retención Estratégica de Talentos con IA
 
-Contexto:
+### Contexto:
 Nos propusimos crear un modelo de IA que sirva para ayudar a las áreas de HR.
 La retención de empleados es un desafío crítico para muchas empresa. La predicción del abandono permite a las empresas tomar medidas proactivas para mejorar la retención.
 
-Problema:
+### Problema:
 Identificar los factores que contribuyen al abandono de los empleados y predecir la probabilidad que tiene un empleado para abandonar la empresa.
 
-Objetivo:
+### Objetivo:
 Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pérdida de talentos apoyándose en datos y que a través de ellos, puedan desarrollar planes de acción.
 
 
 
-Estructura de Carpetas:
+### Estructura de Carpetas:
 
 📚 data: Bases de datos con la que trabajaremos en el proyecto, formato .csv
 
@@ -26,7 +26,7 @@ Estructura de Carpetas:
 
 
 
-Autores:
+### Autores:
 - Cristina Gónzalez
 - Rubén Pecellín
   
