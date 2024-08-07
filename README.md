@@ -10,6 +10,9 @@
 
 # Retención Estratégica de Talentos con IA
 
+![image](https://github.com/user-attachments/assets/2d7a6e6a-2507-4740-a8e0-a2cd1aee9273)
+
+
 ## Contexto:
 Nos propusimos crear un modelo de IA que sirva para ayudar a las áreas de HR.
 La retención de empleados es un desafío crítico para muchas empresa. La predicción del abandono permite a las empresas tomar medidas proactivas para mejorar la retención.
