@@ -17,9 +17,12 @@ Objetivo:
 Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pérdida de talentos apoyándose en datos y que a través de ellos, puedan desarrollar planes de acción.
 
 
+Estructura de Carpetas:
 
+📚 data: Bases de datos con la que trabajaremos en el proyecto, formato .csv
 
+🗺️ demo: Dashboard de Tableau, en formato .twbx y .pdf
 
+🛠️🐍 notebooks: Jupyter Notebooks del proyecto. Está dividido en 4 notebooks en donde cada uno de ellos se explicarán las distintas fases del proyecto, siendo así el "04_Ingerineria_De_Caracteristicas.ipynb" el archivo final. con código en PYthon
 
-Este trabajo está dividido en 4 notebooks en donde cada uno de ellos se explicarán las distintas fases del proyecto, siendo así el "04_Ingerineria_De_Caracteristicas.ipynb" el archivo final.
-El lenguaje utilizado es Python.
+💹 presentación: en formato .pdf y .pptx
