@@ -4,7 +4,7 @@
 - Cristina Gónzalez
 - Rubén Pecellín
 
-## Retención Estratégica de Talentos con IA
+# Retención Estratégica de Talentos con IA
 
 ### - Contexto:
 Nos propusimos crear un modelo de IA que sirva para ayudar a las áreas de HR.
