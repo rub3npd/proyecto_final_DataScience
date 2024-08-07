@@ -1,11 +1,5 @@
 # Proyecto final del Bootcamp de Data Science & Machine Learning
 
-
-## Autores:
-- Cristina Gónzalez
-- Rubén Pecellín
-
-
 <img src="https://github.com/user-attachments/assets/2d7a6e6a-2507-4740-a8e0-a2cd1aee9273" alt="Título: Retención Estratégica de Talentos con IA " width="800">
 
 
@@ -42,3 +36,10 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 
 - [ ] Publicar en Tableau Public el Dashboard Interactivo de Tableau
 - [ ] Cambio de diseño en la presentación
+
+
+
+## Autores:
+- Cristina Gónzalez
+- Rubén Pecellín
+
