@@ -36,3 +36,7 @@ Desarrollar un modelo de Machine Learning que prediga la probabilidad de la pér
 💹 **presentación**: en formato .pdf
 
   
+## Tareas Pendientes:
+
+- [ ] Publicar en Tableau Public el Dashboard
+- [ ] Cambio de diseño en la presentación
